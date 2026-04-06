@@ -20,7 +20,7 @@
 
 A running collection of what I’ve been studying, testing, and tracking.
 
-Focus sits between cybersecurity and behavior —  
+Focus sits between cybersecurity and behavior   
 how systems operate, how they’re used (and misused), and what patterns show up before things go wrong.
 
 ---
@@ -30,7 +30,7 @@ how systems operate, how they’re used (and misused), and what patterns show up
 A lot of my attention goes into real-world cases.
 
 Not just what happened,  
-but how it moved from first contact to outcome —  
+but how it moved from first contact to outcome   
 interaction, escalation, investigation, interrogation, and resolution.
 
 I’m interested in the structure behind it:
@@ -45,7 +45,7 @@ and how small signals early on can shape everything that follows.
 That same thinking carries into other areas:
 
 Scammer behavior, social engineering, and online interactions  
-where the goal is to understand — and eventually step into that process.
+where the goal is to understand  and eventually step into that process.
 
 ---
 
@@ -56,7 +56,7 @@ Ongoing work is centered around building a strong foundation in cybersecurity.
 Spending time inside controlled environments, working through scenarios,  
 breaking things down, and understanding how different pieces connect.
 
-A lot of that happens through platforms like <b>TryHackMe</b> —  
+A lot of that happens through platforms like <b>TryHackMe</b>   
 learning by doing, not just reading.
 
 ---
