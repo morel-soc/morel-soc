@@ -1,7 +1,7 @@
 <h1 align="center">Chae Morel</h1>
 
 <p align="center">
-  <i>systems • behavior • patterns</i>
+  <i>Systems • Behavior • Patterns</i>
 </p>
 
 <p align="center">
@@ -11,73 +11,73 @@
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/focus-cybersecurity-0A0A0A?style=flat"/>
-  <img src="https://img.shields.io/badge/lens-behavior-1F1F1F?style=flat"/>
-  <img src="https://img.shields.io/badge/method-patterns-2A2A2A?style=flat"/>
+  <img src="https://img.shields.io/badge/Focus-Cybersecurity-0A0A0A?style=flat"/>
+  <img src="https://img.shields.io/badge/Lens-Behavior-1F1F1F?style=flat"/>
+  <img src="https://img.shields.io/badge/Method-Patterns-2A2A2A?style=flat"/>
 </p>
 
 ---
 
-a running collection of what i’ve been studying, testing, and tracking.
+A running collection of what I’ve been studying, testing, and tracking.
 
-focus sits between cybersecurity and behavior —  
+Focus sits between cybersecurity and behavior —  
 how systems operate, how they’re used (and misused), and what patterns show up before things go wrong.
 
 ---
 
-### 🔍 ⌁ case observation
+### 🔍 ⌁ Case Observation
 
-a lot of my attention goes into real-world cases.
+A lot of my attention goes into real-world cases.
 
-not just what happened,  
+Not just what happened,  
 but how it moved from first contact to outcome —  
 interaction, escalation, investigation, interrogation, and resolution.
 
-i’m interested in the structure behind it:  
+I’m interested in the structure behind it:
 
-how decisions are made, how behavior shifts under pressure,  
+How decisions are made, how behavior shifts under pressure,  
 and how small signals early on can shape everything that follows.
 
 ---
 
-### 🧠 ⌁ behavioral patterns
+### 🧠 ⌁ Behavioral Patterns
 
-that same thinking carries into other areas:
+That same thinking carries into other areas:
 
-scammer behavior, social engineering, and online interactions  
+Scammer behavior, social engineering, and online interactions  
 where the goal is to understand — and eventually step into that process.
 
 ---
 
-### 🧩 ⌁ ongoing work
+### 🧩 ⌁ Ongoing Work
 
-ongoing work is centered around building a strong foundation in cybersecurity.
+Ongoing work is centered around building a strong foundation in cybersecurity.
 
-spending time inside controlled environments, working through scenarios,  
+Spending time inside controlled environments, working through scenarios,  
 breaking things down, and understanding how different pieces connect.
 
-a lot of that happens through platforms like <b>TryHackMe</b> —  
+A lot of that happens through platforms like <b>TryHackMe</b> —  
 learning by doing, not just reading.
 
 ---
 
-### ⚙️ ⌁ areas of interest
+### ⚙️ ⌁ Areas of Interest
 
-- cyber & digital safety  
-- social engineering and scam behavior  
-- pattern recognition in real-world and online interactions  
-- social media literacy and digital hygiene  
-- law enforcement process, procedure, and decision flow  
+- Cyber & digital safety  
+- Social engineering and scam behavior  
+- Pattern recognition in real-world and online interactions  
+- Social media literacy and digital hygiene  
+- Law enforcement process, procedure, and decision flow  
 
 ---
 
-### 🗂️ ⌁ notes
+### 🗂️ ⌁ Notes
 
-this space holds notes, small builds, and ongoing case-style thinking.  
-a separate portfolio repo exists for more structured work.
+This space holds notes, small builds, and ongoing case-style thinking.  
+A separate portfolio repo exists for more structured work.
 
 ---
 
 <p align="center">
-  <i>this work doesn’t sit still. neither do the patterns.</i>
+  <i>This work doesn’t sit still. Neither do the patterns.</i>
 </p>
