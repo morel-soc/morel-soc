@@ -1,46 +1,66 @@
-# 🖤 Morel — Cybersecurity Learner & Future SOC Analyst
+<h1 align="center">Chae Morel</h1>
 
-Hi, I’m **Michaela Morel** 👋  
-Aspiring **SOC Analyst** building a strong foundation in cybersecurity fundamentals, Linux, network analysis, and threat detection.
-
-I’m currently completing the **Google Cybersecurity Certificate** and actively training through **TryHackMe**, focusing on practical skills that map directly to real SOC workflows.
-
----
-
-## 🛡️ What I’m Learning
-- Linux fundamentals & command line workflows  
-- SOC operations and alert triage  
-- Basic threat detection & log analysis  
-- Networking concepts (TCP/IP, DNS, HTTP, routing)  
-- Security fundamentals & incident response concepts  
-- Vulnerability basics and common attack techniques  
+<p align="center">
+  <i>systems • behavior • patterns</i>
+</p>
 
 ---
 
-## 👩🏽‍💻 Current Projects
-- **Cybersecurity Portfolio**  
-  Documenting labs, case studies, incident breakdowns, and hands-on exercises.
+a running collection of what i’ve been studying, testing, and paying attention to.
 
-- **Case File Analyses**  
-  Exploring real criminal cases through a behavioral, forensic, and OSINT lens.
-
-- **TryHackMe Practice**  
-  Daily labs for Windows, Linux, networking, and security challenges.
+focus sits between cybersecurity and behavior —  
+how systems operate, how they’re used (and misused), and what patterns show up before things go wrong.
 
 ---
 
-## 🐦‍🔥 About Me
-- Neurodivergent non-linear learner with strong pattern recognition  
-- Obsessed with behavioral patterns, threat analysis, and problem-solving  
-- Passionate about helping people stay safe online  
-- Building skills toward a future role in a SOC environment  
+### ⌁ case observation
+
+a lot of my attention goes into real-world cases.
+
+not just what happened,  
+but how it moved from first contact to outcome —  
+interaction, escalation, investigation, interrogation, and resolution.
+
+i’m interested in the structure behind it:  
+how decisions are made, how behavior shifts under pressure,  
+and how small signals early on can shape everything that follows.
 
 ---
 
-## 📫 Contact
-You can reach me at:  
-**morel.infosec@gmail.com**
+### ⌁ behavioral patterns
+
+that same thinking carries into other areas:
+
+scammer behavior, social engineering, and online interactions  
+where the goal is to understand — and eventually step into that process.
 
 ---
 
-Thanks for stopping by — more projects coming soon. 🖤
+### ⌁ ongoing work
+
+ongoing work is centered around building a strong foundation in cybersecurity.
+
+spending time inside controlled environments, working through scenarios,  
+breaking things down, and understanding how different pieces connect.
+
+a lot of that happens through platforms like <b>TryHackMe</b> —  
+learning by doing, not just reading.
+
+---
+
+### ⌁ areas of interest
+
+- cyber & digital safety  
+- social engineering and scam behavior  
+- pattern recognition in real-world and online interactions  
+- social media literacy and digital hygiene  
+- law enforcement process, procedure, and decision flow  
+
+---
+
+### ⌁ notes
+
+this space holds notes, small builds, and ongoing case-style thinking.  
+a separate portfolio repo exists for more structured work.
+
+this work doesn’t sit still.
