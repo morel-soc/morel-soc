@@ -3,18 +3,17 @@
 <p align="center">
   <i>systems • behavior • patterns</i>
 </p>
-<p align="center">
-  <a href="www.linkedin.com/in/michaela-morel
 
-">
-    <img src="https://img.shields.io/badge/linkedin-1a1a1a?style=flat&logo=linkedin&logoColor=white"/>
+<p align="center">
+  <a href="https://www.linkedin.com/in/YOUR-LINK">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/focus-cybersecurity-0A0A0A?style=flat&logo=hackaday&logoColor=white"/>
-  <img src="https://img.shields.io/badge/lens-behavior-1F1F1F?style=flat&logo=eye&logoColor=white"/>
-  <img src="https://img.shields.io/badge/method-patterns-2A2A2A?style=flat&logo=matrix&logoColor=white"/>
+  <img src="https://img.shields.io/badge/focus-cybersecurity-0A0A0A?style=flat"/>
+  <img src="https://img.shields.io/badge/lens-behavior-1F1F1F?style=flat"/>
+  <img src="https://img.shields.io/badge/method-patterns-2A2A2A?style=flat"/>
 </p>
 
 ---
