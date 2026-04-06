@@ -4,6 +4,12 @@
   <i>systems • behavior • patterns</i>
 </p>
 
+<p align="center">
+  <img src="https://img.shields.io/badge/focus-cybersecurity-0A0A0A?style=flat&logo=hackaday&logoColor=white"/>
+  <img src="https://img.shields.io/badge/lens-behavior-1F1F1F?style=flat&logo=eye&logoColor=white"/>
+  <img src="https://img.shields.io/badge/method-patterns-2A2A2A?style=flat&logo=matrix&logoColor=white"/>
+</p>
+
 ---
 
 a running collection of what i’ve been studying, testing, and paying attention to.
@@ -13,7 +19,7 @@ how systems operate, how they’re used (and misused), and what patterns show up
 
 ---
 
-### ⌁ case observation
+### 🔍 ⌁ case observation
 
 a lot of my attention goes into real-world cases.
 
@@ -27,7 +33,7 @@ and how small signals early on can shape everything that follows.
 
 ---
 
-### ⌁ behavioral patterns
+### 🧠 ⌁ behavioral patterns
 
 that same thinking carries into other areas:
 
@@ -36,7 +42,7 @@ where the goal is to understand — and eventually step into that process.
 
 ---
 
-### ⌁ ongoing work
+### 🧩 ⌁ ongoing work
 
 ongoing work is centered around building a strong foundation in cybersecurity.
 
@@ -48,7 +54,7 @@ learning by doing, not just reading.
 
 ---
 
-### ⌁ areas of interest
+### ⚙️ ⌁ areas of interest
 
 - cyber & digital safety  
 - social engineering and scam behavior  
@@ -58,9 +64,13 @@ learning by doing, not just reading.
 
 ---
 
-### ⌁ notes
+### 🗂️ ⌁ notes
 
 this space holds notes, small builds, and ongoing case-style thinking.  
 a separate portfolio repo exists for more structured work.
 
-this work doesn’t sit still.
+---
+
+<p align="center">
+  <i>this work doesn’t sit still.</i>
+</p>
