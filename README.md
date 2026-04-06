@@ -3,6 +3,13 @@
 <p align="center">
   <i>systems • behavior • patterns</i>
 </p>
+<p align="center">
+  <a href="www.linkedin.com/in/michaela-morel
+
+">
+    <img src="https://img.shields.io/badge/linkedin-1a1a1a?style=flat&logo=linkedin&logoColor=white"/>
+  </a>
+</p>
 
 <p align="center">
   <img src="https://img.shields.io/badge/focus-cybersecurity-0A0A0A?style=flat&logo=hackaday&logoColor=white"/>
