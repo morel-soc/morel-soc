@@ -18,7 +18,7 @@
 
 ---
 
-a running collection of what i’ve been studying, testing, and paying attention to.
+a running collection of what i’ve been studying, testing, and tracking.
 
 focus sits between cybersecurity and behavior —  
 how systems operate, how they’re used (and misused), and what patterns show up before things go wrong.
@@ -34,6 +34,7 @@ but how it moved from first contact to outcome —
 interaction, escalation, investigation, interrogation, and resolution.
 
 i’m interested in the structure behind it:  
+
 how decisions are made, how behavior shifts under pressure,  
 and how small signals early on can shape everything that follows.
 
@@ -78,5 +79,5 @@ a separate portfolio repo exists for more structured work.
 ---
 
 <p align="center">
-  <i>this work doesn’t sit still.</i>
+  <i>this work doesn’t sit still. neither do the patterns.</i>
 </p>
