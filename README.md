@@ -71,10 +71,7 @@ learning by doing, not just reading.
 
 ---
 
-### 🗂️ ⌁ Notes
 
-This space holds notes, small builds, and ongoing case-style thinking.  
-A separate portfolio repo exists for more structured work.
 
 ---
 
